@@ -1,6 +1,5 @@
 homepage: "https://powerclick.io"
-documentation: "https://powerclick.io"
+documentation: "https://github.com/datasift-io/powerclick-tag#readme"
 versions:
-  # Add the SHA of the commit that published template.tpl here (newest first), e.g.
-  # - sha: 0123456789abcdef0123456789abcdef01234567
-  #   changeNotes: Initial release.
+  - sha: 778f1115293906ccc12d82d8e2c916204c168401
+    changeNotes: Initial release.
