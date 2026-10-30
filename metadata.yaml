@@ -1,5 +1,7 @@
 homepage: "https://powerclick.io"
 documentation: "https://github.com/datasift-io/powerclick-tag#readme"
 versions:
+  - sha: 7dc74290188c2deb2a699a45a080fe9e494faeaa
+    changeNotes: Adds the PowerClick icon.
   - sha: 778f1115293906ccc12d82d8e2c916204c168401
     changeNotes: Initial release.
